@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/malurodrigues/malurodrigues/main/banner.svg"
+    src="https://raw.githubusercontent.com/malurodrigues/malurodrigues/master/banner.svg"
     alt="Malu Dev"
     width="100%">
 </div>
