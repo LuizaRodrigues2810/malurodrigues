@@ -3,99 +3,70 @@
 
 <rect width="1200" height="700" fill="#252027"/>
 
-<!-- MÚSICA -->
 
-<rect x="70" y="80"
-      width="280" height="220"
-      rx="4"
-      fill="#e8d9b8"/>
+<!-- MÚSICA -->
 
 <image
   href="https://raw.githubusercontent.com/LuizaRodrigues2810/malurodrigues/main/musica.jpg"
-  x="85"
-  y="95"
-  width="250"
-  height="190"
+  x="50"
+  y="50"
+  width="300"
+  height="250"
   preserveAspectRatio="xMidYMid slice"/>
 
 
 <!-- LIVROS -->
 
-<rect x="450" y="60"
-      width="260" height="220"
-      rx="4"
-      fill="#d6b58c"/>
-
 <image
   href="https://raw.githubusercontent.com/LuizaRodrigues2810/malurodrigues/main/livros.jpg"
-  x="465"
-  y="75"
-  width="230"
-  height="190"
+  x="450"
+  y="50"
+  width="300"
+  height="250"
   preserveAspectRatio="xMidYMid slice"/>
 
 
 <!-- ESCRITA -->
 
-<rect x="820" y="90"
-      width="290" height="220"
-      rx="4"
-      fill="#c88f87"/>
-
 <image
   href="https://raw.githubusercontent.com/LuizaRodrigues2810/malurodrigues/main/escrita.jpg"
-  x="835"
-  y="105"
-  width="260"
-  height="190"
+  x="850"
+  y="50"
+  width="300"
+  height="250"
   preserveAspectRatio="xMidYMid slice"/>
 
 
 <!-- DANÇA -->
 
-<rect x="100" y="390"
-      width="280" height="220"
-      rx="4"
-      fill="#6d7c67"/>
-
 <image
   href="https://raw.githubusercontent.com/LuizaRodrigues2810/malurodrigues/main/danca.jpg"
-  x="115"
-  y="405"
-  width="250"
-  height="190"
+  x="50"
+  y="380"
+  width="300"
+  height="250"
   preserveAspectRatio="xMidYMid slice"/>
 
 
 <!-- ARTE -->
 
-<rect x="470" y="370"
-      width="300" height="230"
-      rx="4"
-      fill="#9b5360"/>
-
 <image
   href="https://raw.githubusercontent.com/LuizaRodrigues2810/malurodrigues/main/arte.jpg"
-  x="485"
-  y="385"
-  width="270"
-  height="200"
+  x="450"
+  y="380"
+  width="300"
+  height="250"
   preserveAspectRatio="xMidYMid slice"/>
 
 
 <!-- PEQUENAS COISAS -->
 
-<rect x="850" y="380"
-      width="270" height="220"
-      rx="4"
-      fill="#c5a64d"/>
-
 <image
   href="https://raw.githubusercontent.com/LuizaRodrigues2810/malurodrigues/main/pequenascoisas.jpg"
-  x="865"
-  y="395"
-  width="240"
-  height="190"
+  x="850"
+  y="380"
+  width="300"
+  height="250"
   preserveAspectRatio="xMidYMid slice"/>
 
 </svg>
