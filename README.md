@@ -1,12 +1,9 @@
 
 <div align="center>
-# ✦ MALU DEV ✦
-> tecnologia x arte x curiosidade
-<br>
 <img src="./banner.svg" width="100%">
-<br>
-> em algum lugar entre a lógica e a imaginação
 </div>
+
+---
 
 01 - Sobre mim
 Olá, me chamo Malu 👋
