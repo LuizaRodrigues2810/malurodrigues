@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-## 01 - Sobre mim
+## 01 - SOBRE MIM
 
 <sub>Conhecendo a pessoa do trás do código</sub>
 
@@ -51,7 +51,7 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
 
 <div align="center">
   
-## 02 - Áreas de Interesse
+## 02 - ÁREAS DE INTERESSE
 
 <sub>Muitas direções, muitas perguntas</sub>
 
@@ -128,7 +128,7 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
 
 <div align="center">
   
-## 03 Atualmente explorando...
+## 03 ATUALMENTE EXPLORANDO...
 
 <sub>Algumas coisas que estão ocupando espaço na minha cabeça</sub>
 
@@ -189,11 +189,11 @@ STATUS ATUAL
 
 <br>
 
-☑ aprendendo &nbsp; ☑ experimentando &nbsp; ☑ fazendo muitas perguntas
+☑ Aprendendo &nbsp; ☑ Experimentando &nbsp; ☑ Fazendo muitas perguntas
 
 <br>
 
-☐ saber exatamente o que estou fazendo
+☐ Saber exatamente o que estou fazendo
 
 </sub>
 
@@ -203,21 +203,113 @@ STATUS ATUAL
 
 ---
 
-04 - Participando...
-👩🏻‍💻 Divas Digitais
+<br>
+<div align="center">
 
-Um projeto focado em apresentar meninas à tecnologia. 
+  ## 04 - PROJETOS EM ANDAMENTO...
 
-Projeto x Educação x Tecnologia x Inclusão
+  <sub>Coisas que estou construindo, aprendendo e descobrindo </sub>
+  
+</div>
 
-📊 Mais experimentos
+<br>
 
-Estou constantemente aprendendo, criando pequenos projetos, quebrando coisas e tentando novamente
+### 👩🏻‍💻 DIVAS DIGITAIS
 
-> Os projetos inacabados também contam.
+**PROJETO X EDUCAÇÃO X TECNOLOGIA X INCLUSÃO**
 
+Um projeto focado em aproximar meninas da tecnologia, 
+criando oportunidades para aprender, experimentar e 
+descobrir novas possibilidades no mundo digital.
+
+**STATUS:** `ATUANDO`
+
+<br>
+
+
+---
+
+### 📱 ILB — TECNOLOGIA & EDUCAÇÃO
+
+**PROJETO X EDUCAÇÃO X TECNOLOGIA X IMPACTO SOCIAL**
+
+Um projeto em desenvolvimento que busca ensinar
+meninas de **14 a 18 anos** a desenvolver um aplicativo
+voltado ao combate à violência contra a mulher.
+
+Mais do que aprender a criar um aplicativo, a proposta
+é aproximar jovens da tecnologia e mostrar que elas
+também podem ocupar espaços de criação e inovação.
+
+**STATUS:** `EM DESENVOLVIMENTO`
+
+<br>
+
+
+---
+
+### 🤖 LETRAMENTO DIGITAL DE IA
+
+**PROJETO X INTELIGÊNCIA ARTIFICIAL X EDUCAÇÃO
+
+Um projeto em andamento voltado ao letramento digital
+em Inteligência Artificial, com o objetivo de ensinar 
+pessoas a utilizar a IA de maneira **consciente, inteligente
+e responsável**.
+
+A ideia não é apenas ensinar *como usar* IA, mas também
+desenvolver uma compreensão melhor sobre suas 
+possibilidades, limites e impactos.
+
+**STATUS:** `EM ANDAMENTO`
+
+<br>
+
+
+---
+
+### 📊 MAIS EXPERIMENTOS
+
+Estou constantemente aprendendo, criando pequenos projetos,
+quebrando coisas e tentando de novo.
+
+Alguns se tornam projetos concluídos.
+
+Alguns se tornam lições.
+
+Alguns são simplesmente abandonados em algum ponto entre
+`"vai ficar incrível"` e `"por que isso não está funcionando?`
+
+<br>
+
+<div align="center">
+
+✦
+
+<br><br>
+
+<em>
+  Os projetos inacabados também contam.
+</em>
+
+<br>
+
+<sub>
+OS EXPERIMENTOS SÃO PARTE DO PROCESSO
+</sub>
+
+<br><br>
+
+✦
+
+</div>
+
+<br>
+
+---
 05 - Além do código
 <div align="center">
+
 
 🎵 musica    📚 livros    ✍️ escrita
 
