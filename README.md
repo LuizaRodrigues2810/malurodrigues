@@ -1,6 +1,9 @@
 
-<div align="center>
-<img src="./banner.svg" alt="Malu Dev" width="100%">
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/banner.svg"
+    alt="Malu Dev"
+    width="100%">
 </div>
 
 ---
