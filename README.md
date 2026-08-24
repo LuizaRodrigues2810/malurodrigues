@@ -126,14 +126,65 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
 ---
 <br>
 
-03 - Explorando atualmente
-┌──────────────────────────────────────────┐ 
-│ > Java                                   │
-│ > Lógica de Programação                  │
-│ > Design                                 │
-│ > Marketing                              │
-└──────────────────────────────────────────┘
-Tenho interesse em aprender como ideias se transformam em coisas reais que as pessoas podem usar.
+<div align="center">
+## 03 Atualmente explorando...
+
+<sub>Algumas coisas que estão ocupando espaço na minha cabeça</sub>
+
+</div>
+
+<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 — JAVA</h3>
+        <blockquote>
+          Aprendendo a pensar em objetos, métodos e pontos e vírgula sem fim.
+      </blockquote>
+</td>
+   <td width="50%" valign="top">
+      <h3>02 — LÓGICA DE PROGRAMAÇÃO</h3>
+        <blockquote>
+          Antes de escrever um código, preciso aprender a pensar como ele.
+        </blockquote>
+</td> 
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 — DESIGN</h3>
+        <blockquote>
+          Explorando como cores, formas, interfaces e ideias se transformam em experiências.
+        </blockquote>
+</td>
+  <td width="50%" valign="top">
+    <h3>04 — MARKETING</h3>
+      <blockquote>
+        Compreender como as ideias encontram as pessoas e como as pessoas encontram as ideias.
+      </blockquote>
+
+</td>
+  </tr>
+</table>
+<br>
+<div align="center">
+  
+✦ ───────────────────────────── ✦ 
+
+<br><br>
+
+<em>
+  Me interesso pelo espaço entre uma ideia e o momento em que alguém pode realmente usá-la.
+</em>
+
+<br><br>
+
+✦ ───────────────────────────── ✦
+
+</div>
+
+<br>
+
+---
 
 04 - Participando...
 👩🏻‍💻 Divas Digitais
