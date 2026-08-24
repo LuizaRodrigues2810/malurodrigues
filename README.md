@@ -51,7 +51,7 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
 
 <div align="center">
   
-  ## 02 - Áreas de Interesse
+## 02 - Áreas de Interesse
 
 <sub>Muitas direções, muitas perguntas</sub>
 
@@ -122,7 +122,9 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
    <sub>Não sou especialista. Apenas curiosa.</sub>
 </div>
 <br>
+
 ---
+<br>
 
 03 - Explorando atualmente
 ┌──────────────────────────────────────────┐ 
