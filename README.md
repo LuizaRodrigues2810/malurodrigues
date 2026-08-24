@@ -31,6 +31,7 @@ src="https://github.com/LuizaRodrigues2810/malurodrigues/blob/46277ea367a3cb2577
 <td width="60%" valign="top">
    Olá, Eu sou a Malu.✦
 
+
 Sou estudante de Sistemas de Informação da Unifesspa. Atualmente, tenho curiosidade sobre o    que acontece por trás da tela e sobre o que acontece quando a tecnologia encontra a     criatividade.
 
 Tenho interesse em entender como ideias se transformam em coisas reais: interfaces,  sistemas, experiências, dados e todos os pequenos detalhes entre eles.
