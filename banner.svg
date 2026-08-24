@@ -44,7 +44,7 @@
         font-size="17"
         letter-spacing="5"
         fill="#713C52">
-    TECHNOLOGY × ART × CURIOSITY
+    TECNOLOGIA × ARTE × CURIOSIDADE
   </text>
 
   <!-- janelinha de código -->
@@ -68,14 +68,14 @@
         font-family="monospace"
         font-size="14"
         fill="#F3EBDD">
-    &gt; creating something new...
+    &gt; criando algo novo...
   </text>
 
   <text x="450" y="342"
         font-family="monospace"
         font-size="13"
         fill="#D9829A">
-    &gt; curiosity = true;
+    &gt; curiosidade = true;
   </text>
 
   <!-- detalhes -->
@@ -105,7 +105,7 @@
         font-size="19"
         fill="#F3EBDD"
         transform="rotate(6 850 115)">
-    make things
+    fazendo coisas...
   </text>
 
   <text x="600" y="405"
@@ -114,7 +114,7 @@
         font-size="17"
         font-style="italic"
         fill="#604A42">
-    somewhere between logic and imagination.
+    em algum lugar entre a lógica e a imaginação
   </text>
 
 </svg>
