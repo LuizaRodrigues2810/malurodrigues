@@ -47,18 +47,84 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
 <br>
 
 ---
-02 - Áreas que me interesso
+<br>
+
 <div align="center">
-✦     Área
-🤖    Inteligência Artificial
-🎨    UI / UX & Interação Humano-Computador
-📊    Dados
-💻    Desenvolvimento de Software
-☁️    Computação em Nuvem
-🔐    Cibersegurança
-🌐    Web
+  
+  ## 02 - Áreas de Interesse
+
+<sub>Muitas direções, muitas perguntas</sub>
+
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 01 · Inteligência Artificial</h3>
+      <p>
+        Explorando sistemas inteligentes, aprendizado de máquina e as possibilidades de criar tecnologia capaz de aprender, adaptar-se e auxiliar.
+      </p>
+    </td>
+
+   <td width="50%" valign="top"> 
+     <h3>🎨 02 · UI / UX & Interação Humano-Computador</h3>
+     <p>
+       Onde a tecnologia encontra pessoas, design e experiência, criando interfaces que são úteis, intuitivas e humanas.
+     </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 03 · Dados</h3>
+      <p>
+        Identificar padrões, organizar informações e transformar dados em algo significativo.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 04 · Desenvolvimento de Software</h3>
+      <p>
+        Transformar ideias em sistemas funcionais e compreender o processo por trás da criação do software.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ 05 · Computação em nuvem</h3>
+      <p>
+        Compreender a infraestrutura, os serviços e os sistemas que mantêm o mundo digital em funcionamento.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 06 · Cibersegurança</h3>
+      <p>
+        Explorando a segurança digital, vulnerabilidades, a privacidade e as diferentes formas de proteger sistemas.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 07 · Web</h3>
+      <p>
+      Explorando a web, das interfaces às tecnologias que operam nos bastidores.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ 08 · ???</h3>
+      <p>
+      Maybe the next thing I haven't discovered yet.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+   <sub>Não sou especialista. Apenas curiosa.</sub>
 </div>
 <br>
+---
+
 03 - Explorando atualmente
 ┌──────────────────────────────────────────┐ 
 │ > Java                                   │
