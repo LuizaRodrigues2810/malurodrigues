@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/banner.svg"
+    src="https://raw.githubusercontent.com/malurodrigues/malurodrigues/main/banner.svg"
     alt="Malu Dev"
     width="100%">
 </div>
@@ -9,6 +9,7 @@
 ---
 
 01 - Sobre mim
+<br>
 Olá, me chamo Malu 👋
 Sou estudante de Sistemas de Informação da Unifesspa. Atualmente, estou aprendendo, experimentando e tentando entender como as coisas funcionam por trás da tela. Gosto de tecnologia, mas também aprecio tudo o que a cerca: arte, música, design, história e ideias. Ainda estou descobrindo o meu caminho - um projeto de cada vez.
 <br>
