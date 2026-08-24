@@ -3,7 +3,7 @@
 # ✦ MALU DEV ✦
 > tecnologia x arte x curiosidade
 <br>
-<img src="./assets/banner.svg" width="100%">
+<img src="./banner.svg" width="100%">
 <br>
 > em algum lugar entre a lógica e a imaginação
 </div>
