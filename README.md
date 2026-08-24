@@ -100,8 +100,6 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
         Explorando a segurança digital, vulnerabilidades, a privacidade e as diferentes formas de proteger sistemas.
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌐 07 · Web</h3>
       <p>
@@ -111,9 +109,10 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
     <td width="50%" valign="top">
       <h3>✦ 08 · ???</h3>
       <p>
-      Maybe the next thing I haven't discovered yet.
+        Talvez a próxima coisa que eu ainda não descobri.
       </p>
     </td>
+  </tr>
   </tr>
 </table>
 
