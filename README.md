@@ -185,6 +185,27 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
 
 <br>
 
+<div align="center">
+  
+<sub>
+  
+STATUS ATUAL
+
+<br><br>
+
+☑ aprendendo &nbsp;&nbsp;
+☑ experimentando &nbsp;&nbsp;
+☑ fazendo muitas perguntas
+
+<br>
+
+☐ saber exatamente o que estou fazendo
+
+</sub>
+
+</div>
+
+
 ---
 
 04 - Participando...
