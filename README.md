@@ -127,6 +127,7 @@ Gosto de aprender na prática, experimentando, criando e, ocasionalmente, quebra
 <br>
 
 <div align="center">
+  
 ## 03 Atualmente explorando...
 
 <sub>Algumas coisas que estão ocupando espaço na minha cabeça</sub>
