@@ -329,29 +329,64 @@ CADA TENTATIVA ADICIONA EXPERIÊNCIA À JORNADA
 <br>
 
 ---
-05 - Além do código
+### 05 — ALÉM DO CÓDIGO
 
 <div align="center">
 
+🎵 **MÚSICA** &nbsp;&nbsp;&nbsp; 📚 **LIVROS** &nbsp;&nbsp;&nbsp; ✍️ **ESCRITA**
 
-🎵 musica    📚 livros    ✍️ escrita
-
-💃 dança    🎨 arte    ☕ pequenas coisas
+💃 **DANÇA** &nbsp;&nbsp;&nbsp; 🎨 **ARTE** &nbsp;&nbsp;&nbsp; ☕ **PEQUENAS COISAS**
 
 </div>
+
 <br>
-> Há mais em mim do que as coisas que programo
+
+> Há mais em mim do que as coisas que programo.
+
+<br>
 
 <div align="center">
 
 ✦
 
-construindo coisas, colecionando ideias.
-
 <br>
 
-feito com curiosidade e um poucos de caos.
+<em>
+Algumas ideias nascem no código.<br>
+Outras nascem em uma música, em uma página,<br>
+em uma conversa ou simplesmente em um dia qualquer.
+</em>
+
+<br><br>
 
 </div>
 
+---
 
+<div align="center">
+
+### ✦ FORA DA TELA
+
+</div>
+
+<br>
+
+<div align="center">
+
+`música` &nbsp; `livros` &nbsp; `escrita` &nbsp; `dança` &nbsp; `arte` &nbsp; `pequenas coisas`
+
+</div>
+
+<br>
+
+> Construindo coisas, colecionando ideias.
+
+<div align="center">
+
+<sub>
+feito com curiosidade e um pouco de caos.
+</sub>
+
+</div>
+
+<br>
