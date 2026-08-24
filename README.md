@@ -204,81 +204,103 @@ STATUS ATUAL
 ---
 
 <br>
+
 <div align="center">
 
-  ## 04 - PROJETOS EM ANDAMENTO...
+## 04 / PROJETOS & EXPERIMENTOS
 
-  <sub>Coisas que estou construindo, aprendendo e descobrindo </sub>
-  
+<sub>MISSÕES EM ANDAMENTO · IDEIAS · TENTATIVAS</sub>
+
 </div>
 
 <br>
 
-### 👩🏻‍💻 DIVAS DIGITAIS
+> **DIÁRIO DO JOGADOR**
+>
+> Nem toda missão precisa estar concluída
+> para fazer parte da jornada.
 
-**PROJETO X EDUCAÇÃO X TECNOLOGIA X INCLUSÃO**
+<br>
 
-Um projeto focado em aproximar meninas da tecnologia, 
-criando oportunidades para aprender, experimentar e 
+---
+
+### 🎮 MISSÃO 01 — DIVAS DIGITAIS
+
+**PROJETO · EDUCAÇÃO · TECNOLOGIA · INCLUSÃO**
+
+Uma missão voltada a aproximar meninas da tecnologia,
+criando oportunidades para aprender, experimentar e
 descobrir novas possibilidades no mundo digital.
 
 **STATUS:** `ATUANDO`
 
-<br>
+**OBJETIVO:**  
+`→ aproximar meninas da tecnologia`
 
+<br>
 
 ---
 
-### 📱 ILB — TECNOLOGIA & EDUCAÇÃO
+### 🎮 MISSÃO 02 — ILB
 
-**PROJETO X EDUCAÇÃO X TECNOLOGIA X IMPACTO SOCIAL**
+**EDUCAÇÃO · TECNOLOGIA · IMPACTO SOCIAL**
 
-Um projeto em desenvolvimento que busca ensinar
+Uma missão em desenvolvimento que busca ensinar
 meninas de **14 a 18 anos** a desenvolver um aplicativo
 voltado ao combate à violência contra a mulher.
 
-Mais do que aprender a criar um aplicativo, a proposta
-é aproximar jovens da tecnologia e mostrar que elas
-também podem ocupar espaços de criação e inovação.
+Mais do que criar uma aplicação, a proposta é mostrar
+que meninas também podem ocupar espaços de criação,
+tecnologia e inovação.
 
 **STATUS:** `EM DESENVOLVIMENTO`
 
-<br>
+**OBJETIVO:**  
+`→ aprender · desenvolver · transformar`
 
+<br>
 
 ---
 
-### 🤖 LETRAMENTO DIGITAL DE IA
+### 🎮 MISSÃO 03 — LETRAMENTO DIGITAL DE IA
 
-**PROJETO X INTELIGÊNCIA ARTIFICIAL X EDUCAÇÃO
+**INTELIGÊNCIA ARTIFICIAL · EDUCAÇÃO**
 
-Um projeto em andamento voltado ao letramento digital
-em Inteligência Artificial, com o objetivo de ensinar 
-pessoas a utilizar a IA de maneira **consciente, inteligente
-e responsável**.
+Uma missão voltada ao letramento digital em Inteligência
+Artificial, buscando ensinar pessoas a utilizar a IA de
+maneira **consciente, inteligente e responsável**.
 
-A ideia não é apenas ensinar *como usar* IA, mas também
-desenvolver uma compreensão melhor sobre suas 
-possibilidades, limites e impactos.
+A missão não é apenas aprender *como usar* IA,
+mas compreender suas possibilidades, limites e impactos.
 
 **STATUS:** `EM ANDAMENTO`
 
-<br>
+**OBJETIVO:**  
+`→ entender antes de simplesmente utilizar`
 
+<br>
 
 ---
 
-### 📊 MAIS EXPERIMENTOS
+### 🎲 MISSÕES SECUNDÁRIAS — MAIS EXPERIMENTOS
 
-Estou constantemente aprendendo, criando pequenos projetos,
-quebrando coisas e tentando de novo.
+Pequenos projetos. Ideias aleatórias. Tentativas.
+Coisas que talvez funcionem.
 
-Alguns se tornam projetos concluídos.
+Estou constantemente aprendendo, criando pequenos
+projetos, quebrando coisas e tentando de novo.
 
-Alguns se tornam lições.
+Alguns chegam ao fim.
 
-Alguns são simplesmente abandonados em algum ponto entre
-`"vai ficar incrível"` e `"por que isso não está funcionando?`
+Alguns viram lições.
+
+Alguns desaparecem misteriosamente depois de:
+
+`"vai ficar incrível"`
+
+e
+
+`"por que isso não está funcionando?"`
 
 <br>
 
@@ -289,13 +311,13 @@ Alguns são simplesmente abandonados em algum ponto entre
 <br><br>
 
 <em>
-  Os projetos inacabados também contam.
+Os projetos inacabados também contam.
 </em>
 
 <br>
 
 <sub>
-OS EXPERIMENTOS SÃO PARTE DO PROCESSO
+CADA TENTATIVA ADICIONA EXPERIÊNCIA À JORNADA
 </sub>
 
 <br><br>
