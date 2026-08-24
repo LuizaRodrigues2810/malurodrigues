@@ -1,1 +1,120 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
 
+  <rect width="1200" height="430" fill="#F3EBDD"/>
+
+  <!-- manchas coloridas -->
+  <ellipse cx="100" cy="80" rx="130" ry="100"
+           fill="#D9829A"
+           transform="rotate(-15 100 80)"/>
+
+  <ellipse cx="1090" cy="80" rx="130" ry="105"
+           fill="#9A82B8"
+           transform="rotate(15 1090 80)"/>
+
+  <ellipse cx="1050" cy="370" rx="160" ry="90"
+           fill="#E8D58A"/>
+
+  <ellipse cx="120" cy="370" rx="150" ry="90"
+           fill="#7D8961"/>
+
+  <!-- papéis -->
+  <rect x="300" y="40" width="230" height="100"
+        fill="#D4774B"
+        transform="rotate(-5 300 40)"/>
+
+  <rect x="780" y="250" width="250" height="95"
+        fill="#7597A5"
+        transform="rotate(4 780 250)"/>
+
+  <!-- título -->
+  <text x="600" y="190"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="72"
+        font-weight="bold"
+        letter-spacing="3"
+        fill="#604A42">
+    MALU DEV
+  </text>
+
+  <!-- subtítulo -->
+  <text x="600" y="225"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="17"
+        letter-spacing="5"
+        fill="#713C52">
+    TECHNOLOGY × ART × CURIOSITY
+  </text>
+
+  <!-- janelinha de código -->
+  <rect x="425" y="270"
+        width="350"
+        height="90"
+        rx="8"
+        fill="#604A42"/>
+
+  <rect x="425" y="270"
+        width="350"
+        height="25"
+        rx="8"
+        fill="#713C52"/>
+
+  <circle cx="445" cy="282" r="4" fill="#D9829A"/>
+  <circle cx="460" cy="282" r="4" fill="#E8D58A"/>
+  <circle cx="475" cy="282" r="4" fill="#7D8961"/>
+
+  <text x="450" y="320"
+        font-family="monospace"
+        font-size="14"
+        fill="#F3EBDD">
+    &gt; creating something new...
+  </text>
+
+  <text x="450" y="342"
+        font-family="monospace"
+        font-size="13"
+        fill="#D9829A">
+    &gt; curiosity = true;
+  </text>
+
+  <!-- detalhes -->
+  <text x="65" y="175"
+        font-family="Georgia, serif"
+        font-size="36"
+        fill="#F3EBDD">
+    ✦
+  </text>
+
+  <text x="1110" y="210"
+        font-family="Georgia, serif"
+        font-size="40"
+        fill="#604A42">
+    ✧
+  </text>
+
+  <text x="280" y="355"
+        font-family="Georgia, serif"
+        font-size="28"
+        fill="#713C52">
+    ☆
+  </text>
+
+  <text x="850" y="115"
+        font-family="cursive"
+        font-size="19"
+        fill="#F3EBDD"
+        transform="rotate(6 850 115)">
+    make things
+  </text>
+
+  <text x="600" y="405"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="17"
+        font-style="italic"
+        fill="#604A42">
+    somewhere between logic and imagination.
+  </text>
+
+</svg>
